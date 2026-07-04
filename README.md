@@ -117,3 +117,4 @@ Smart Satellite Crop Intelligence System gives judges a complete end-to-end remo
 - USGS. Landsat Satellite Missions. https://www.usgs.gov/landsat-missions/landsat-satellite-missions
 - Gao, B.-C. 1996. NDWI: A normalized difference water index for remote sensing of vegetation liquid water from space. Remote Sensing of Environment.
 - scikit-learn. Ensemble methods and RandomForestClassifier documentation. https://scikit-learn.org/stable/modules/ensemble.html
+"# Agri-360-PheoniX" 
